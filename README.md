@@ -30,5 +30,3 @@ Currently working on:
 LinkedIn: www.linkedin.com/in/nilesh-saraswat-89a8b7356
 Email: nileshsaraswat545@gmail.com
 
-Instagram: [Your Page]
-Email: your email
