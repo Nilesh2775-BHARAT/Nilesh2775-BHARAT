@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @Nilesh2775-BHARAT
-- 👀 I’m interested in Web developing 
-- 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on bot files
-- 📫 How to reach me nileshsaraswat545@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: I love developing and working on Python 
+- 👋# Hi, I'm Nilesh Saraswat 👋
 
-<!---
-Nilesh2775-BHARAT/Nilesh2775-BHARAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Education Entrepreneur | BCA Student
+🔐 Cybersecurity Enthusiast
+🐍 Python Developer
+🌍 Building THE GD GROUP
+
+## About Me
+
+I am a BCA student at Amity University passionate about
+Cybersecurity, Artificial Intelligence, and Education Technology.
+
+Currently working on:
+- Python Automation Projects
+- Cybersecurity Labs
+- Educational Technology Solutions
+- Community Building through THE GD GROUP
+
+## Skills
+
+- Python
+- Linux
+- Networking
+- Cybersecurity Fundamentals
+- AI Fundamentals
+- Community Building
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/nilesh-saraswat-89a8b7356
+Email: nileshsaraswat545@gmail.com
+
+Instagram: [Your Page]
+Email: your email
