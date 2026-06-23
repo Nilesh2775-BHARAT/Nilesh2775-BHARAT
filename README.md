@@ -11,12 +11,12 @@ I am a BCA student at Amity University passionate about
 Cybersecurity, Artificial Intelligence, and Education Technology.
 
 Currently working on:
-- Python Automation Projects
-- Cybersecurity Labs
-- Educational Technology Solutions
-- Community Building through THE GD GROUP
+- *Python Automation Projects*
+- *Cybersecurity Labs*
+- *Educational Technology Solutions*
+- *Community Building through THE GD GROUP*
 
-## Skills
+#Skills#
 
 - Python
 - Linux
@@ -25,8 +25,8 @@ Currently working on:
 - AI Fundamentals
 - Community Building
 
-## Connect With Me
+#Connect With Me#
 
-LinkedIn: www.linkedin.com/in/nilesh-saraswat-89a8b7356
-Email: nileshsaraswat545@gmail.com
+*LinkedIn: www.linkedin.com/in/nilesh-saraswat-89a8b7356*
+*Email: nileshsaraswat545@gmail.com*
 
